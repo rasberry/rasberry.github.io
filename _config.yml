@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 title: Rubus Code
 description: A chronicle of coding adventures
-is_project_page: false
+show_downloads: false
 github:
   is_project_page: false
